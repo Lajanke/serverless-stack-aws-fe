@@ -4,7 +4,7 @@ export default {
     BUCKET: "notes-app-aws"
   },
   apiGateway: {
-    REGION: "es-east-2",
+    REGION: "us-east-2",
     URL: "https://lf6akw7hrh.execute-api.us-east-2.amazonaws.com/prod"
   },
   cognito: {
